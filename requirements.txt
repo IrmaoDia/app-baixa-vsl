@@ -1,0 +1,8 @@
+fastapi>=0.115,<1
+uvicorn>=0.34,<1
+requests>=2.32,<3
+beautifulsoup4>=4.13,<5
+yt-dlp>=2026.3.17
+imageio-ffmpeg>=0.6,<1
+chompjs>=1.4,<2
+playwright>=1.51,<2
